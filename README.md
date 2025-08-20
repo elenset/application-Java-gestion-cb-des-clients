@@ -113,11 +113,3 @@ Pour enrichir cette application, vous pourriez ajouter :
 - **Persistance des données** : Sauvegarde dans un fichier ou base de données
 - **Authentification** : Système de mot de passe pour sécuriser les comptes
 
-## Auteur
-
-Développé dans le cadre du cours de Programmation Orientée Objet Java 2022
-Professeur : Mr. Abdelmajid BOUSSELHAM
-
----
-
-*Cette application démontre l'implémentation pratique des concepts fondamentaux de la POO en Java, en particulier l'encapsulation et la gestion d'état des objets dans un contexte bancaire simplifié.*
